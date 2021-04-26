@@ -4,18 +4,18 @@
 
 ### 목차
 
-1. OPC란?
-   1.1 OPC
-   1.2 OPC의 목적
-   1.3 OPC의 기능 (서비스)
-   1.4 OPC UA vs OPC DA
-2. OPC UA
-   2.1 OPC UA란
-   2.1 OPC UA의 필요성
-   2.3 상호운용성의 문제점
-   2.4 New Generation OPC를 위한 요구사항
-   2.5 OPC UA 아키텍처 구조 및 구성 요소
-   2.6 OPC UA의 특징
+1. OPC란?<br>
+   1.1 OPC<br>
+   1.2 OPC의 목적<br>
+   1.3 OPC의 기능 (서비스)<br>
+   1.4 OPC UA vs OPC DA<br>
+2. OPC UA<br>
+   2.1 OPC UA란<br>
+   2.1 OPC UA의 필요성<br>
+   2.3 상호운용성의 문제점<br>
+   2.4 New Generation OPC를 위한 요구사항<br>
+   2.5 OPC UA 아키텍처 구조 및 구성 요소<br>
+   2.6 OPC UA의 특징<br>
    2.7 OPC UA의 인더스트리 4.0 활용
 
 <br>
